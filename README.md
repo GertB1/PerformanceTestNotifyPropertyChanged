@@ -33,5 +33,5 @@ When I add the INotifyPropertyChanged then the performance changes drastically. 
   I also think that one should not implement INotifyPropertyChanged on objects you would like to retrieve from the database, that way it would be the fastest. Only add the INotifyPropertyChanged where you require it, like when binding to the object in an edit control.
 </p>
 <p>
-  If anybody has a better I idea please let me know. It would be appreciated.
+  If anybody has a better idea please let me know. It would be appreciated.
 </p>
